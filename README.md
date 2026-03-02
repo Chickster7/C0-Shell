@@ -1,6 +1,10 @@
 
 # C0-Term
 
+# ATTENTION
+
+This software is designed exclusively for Windows and is not compatible with macOS, Linux, or other operating systems.
+
 ## License
 
 MIT License
