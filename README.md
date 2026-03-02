@@ -1,5 +1,5 @@
 
-# C0-Term
+# C0 Shell
 
 # ATTENTION
 
@@ -28,10 +28,3 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
-
-## Screenshots
-
-<img width="948" height="19" alt="Screenshot 2026-03-02 103200" src="https://github.com/user-attachments/assets/46f23c3e-34d7-41a7-9928-37abe23c4987" />
-<img width="155" height="52" alt="image" src="https://github.com/user-attachments/assets/c3412d75-0e6d-4189-991d-68bc75e7570b" />
-<img width="102" height="25" alt="image" src="https://github.com/user-attachments/assets/96057ead-5936-46b2-b9f8-98fc9eb3c125" />
-<img width="195" height="142" alt="image" src="https://github.com/user-attachments/assets/5aa5056d-763b-4a71-8d7a-34f34b07b46f" />
