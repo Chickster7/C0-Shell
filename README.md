@@ -1,3 +1,4 @@
+C0-Term Fork
 
 # C0 Shell
 
@@ -9,8 +10,7 @@ This software is designed exclusively for Windows and is not compatible with mac
 
 MIT License
 
-Copyright (c) 2026 Chicken-Guy1
-
+Copyright (c) 2026 Chickster7
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
 in the Software without restriction, including without limitation the rights
